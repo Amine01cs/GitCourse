@@ -2,3 +2,5 @@ this file is used the public Key Method to push/pull from git hub the Commands i
 ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
 cat ~/.ssh/is.pub for copy the public key from the file 
 ssh -T git@github.com to athunticate your public key on github
+
+Today's i just add some notes i read about it like Delegates & Events i think its exciting thing to learn about it but ai will killed ass at all :-)
